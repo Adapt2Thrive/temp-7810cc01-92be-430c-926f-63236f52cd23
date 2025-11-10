@@ -366,15 +366,6 @@ To make the output more realistic, you can insert the following emotion tags whe
 `<emotion value="contemplative"/>`
 `<emotion value="determined"/>`
 
-You can also insert the following tags to modify speed and volume, if this is what the character might realistically do at that point in the transcript:
-
-Faster speed: `<speed ratio="1.5"/>`
-Normal speed: `<speed ratio="1.0"/>`
-
-Very loud voice: `<volume ratio="2.0"/>`
-Slightly louder voice: `<volume ratio="1.5"/>`
-Slightly quiet voice: `<volume ratio="0.75"/>`
-Very quiet voice: `<volume ratio="0.5"/>`
 
 
 
@@ -384,7 +375,7 @@ Very quiet voice: `<volume ratio="0.5"/>`
 - Format as dialogue — short paragraphs or quoted speech preferred.  
 - Keep the tone consistent with your Character Definition and appropriate to the Scenario Definition context.  
 - Avoid excessive exposition; focus on realistic emotional and linguistic exchange.
-- Add emotion, speed or volume tags, when appropriate, to make the output more realistic for the character definition given
+- Add emotion tags, when appropriate, to make the output more realistic for the character definition given
 
 ---
 
