@@ -376,7 +376,7 @@ To make the output more realistic, you can insert the following emotion tags whe
 - Keep the tone consistent with your Character Definition and appropriate to the Scenario Definition context.  
 - Avoid excessive exposition; focus on realistic emotional and linguistic exchange.
 - Add emotion tags, when appropriate, to make the output more realistic for the character definition given
-
+- Never use em dashes (—) in your response - only hyphens (-).
 ---
 
 **End of System Instructions**
